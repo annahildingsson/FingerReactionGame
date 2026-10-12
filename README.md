@@ -1,6 +1,7 @@
 # Finger Reaction Game ✋🏼✌🏼☝🏼
 ## An interactive reaction-based game that combines computer vision, real-time hand gesture recognition and LED signals
 #### By Anna Hildingsson & Isabella Katz
+#### Created December 2025 - January 2026
 
 ## Description
 Finger Reaction Game is an interactive reaction-based game that combines computer vision, real-time
